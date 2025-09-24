@@ -4,6 +4,29 @@
   
     
     <entry>
+      <title>Git 基本命令（持续更新）</title>
+      <link href="/2025/09/24/Git_Commands/"/>
+      <url>/2025/09/24/Git_Commands/</url>
+      
+      
+      <categories>
+          
+          <category> 操作技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>初识Linux</title>
       <link href="/2025/09/24/Linux/Linux01/"/>
       <url>/2025/09/24/Linux/Linux01/</url>
@@ -11,7 +34,7 @@
       
       <categories>
           
-          <category> Linux </category>
+          <category> 操作技巧 </category>
           
       </categories>
       
@@ -34,7 +57,7 @@
       
       <categories>
           
-          <category> Linux </category>
+          <category> 操作技巧 </category>
           
       </categories>
       
@@ -57,30 +80,7 @@
       
       <categories>
           
-          <category> Linux </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Linux </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Linux用户和权限</title>
-      <link href="/2025/09/24/Linux/Linux04/"/>
-      <url>/2025/09/24/Linux/Linux04/</url>
-      
-      
-      <categories>
-          
-          <category> Linux </category>
+          <category> 操作技巧 </category>
           
       </categories>
       
@@ -103,12 +103,14 @@
       
       <categories>
           
-          <category> Linux </category>
+          <category> 操作技巧 </category>
           
       </categories>
       
       
         <tags>
+            
+            <tag> Linux </tag>
             
             <tag> WSL </tag>
             
@@ -119,14 +121,14 @@
     
     
     <entry>
-      <title>实战章节：在Linux上部署各类软件</title>
-      <link href="/2025/09/24/Linux/Linux05/"/>
-      <url>/2025/09/24/Linux/Linux05/</url>
+      <title>Linux用户和权限</title>
+      <link href="/2025/09/24/Linux/Linux04/"/>
+      <url>/2025/09/24/Linux/Linux04/</url>
       
       
       <categories>
           
-          <category> Linux </category>
+          <category> 操作技巧 </category>
           
       </categories>
       
@@ -142,9 +144,55 @@
     
     
     <entry>
+      <title>实战章节：在Linux上部署各类软件</title>
+      <link href="/2025/09/24/Linux/Linux05/"/>
+      <url>/2025/09/24/Linux/Linux05/</url>
+      
+      
+      <categories>
+          
+          <category> 操作技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于博客 | 持续创作</title>
+      <link href="/2025/09/23/Blog_Introduction/"/>
+      <url>/2025/09/23/Blog_Introduction/</url>
+      
+      
+      <categories>
+          
+          <category> 关于 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客介绍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于我 | 时光之翼</title>
-      <link href="/2025/09/23/introduction/"/>
-      <url>/2025/09/23/introduction/</url>
+      <link href="/2025/09/23/Self_Introduction/"/>
+      <url>/2025/09/23/Self_Introduction/</url>
       
       
       <categories>
