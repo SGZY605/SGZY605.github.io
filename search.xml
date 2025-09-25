@@ -27,6 +27,52 @@
     
     
     <entry>
+      <title>初识Linux</title>
+      <link href="/2025/09/24/Linux/Linux01/"/>
+      <url>/2025/09/24/Linux/Linux01/</url>
+      
+      
+      <categories>
+          
+          <category> 操作技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Linux的基本命令</title>
+      <link href="/2025/09/24/Linux/Linux02/"/>
+      <url>/2025/09/24/Linux/Linux02/</url>
+      
+      
+      <categories>
+          
+          <category> 操作技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Linux用户和权限</title>
       <link href="/2025/09/24/Linux/Linux04/"/>
       <url>/2025/09/24/Linux/Linux04/</url>
@@ -73,29 +119,6 @@
     
     
     <entry>
-      <title>Linux的基本命令</title>
-      <link href="/2025/09/24/Linux/Linux02/"/>
-      <url>/2025/09/24/Linux/Linux02/</url>
-      
-      
-      <categories>
-          
-          <category> 操作技巧 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Linux </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Windows下安装WSL</title>
       <link href="/2025/09/24/Linux/WSL/"/>
       <url>/2025/09/24/Linux/WSL/</url>
@@ -113,29 +136,6 @@
             <tag> Linux </tag>
             
             <tag> WSL </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>初识Linux</title>
-      <link href="/2025/09/24/Linux/Linux01/"/>
-      <url>/2025/09/24/Linux/Linux01/</url>
-      
-      
-      <categories>
-          
-          <category> 操作技巧 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Linux </tag>
             
         </tags>
       
