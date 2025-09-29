@@ -4,6 +4,29 @@
   
     
     <entry>
+      <title>Sionna：一个用于 6G 研究的开源库</title>
+      <link href="/2025/09/29/Sionna/Sionna,%20An%20Open-Source%20Library%20for%206G%20Research/"/>
+      <url>/2025/09/29/Sionna/Sionna,%20An%20Open-Source%20Library%20for%206G%20Research/</url>
+      
+      
+      <categories>
+          
+          <category> 科研学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Sionna </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Git 基本命令（持续更新）</title>
       <link href="/2025/09/24/Git/Git_Commands/"/>
       <url>/2025/09/24/Git/Git_Commands/</url>
@@ -27,9 +50,9 @@
     
     
     <entry>
-      <title>初识Linux</title>
-      <link href="/2025/09/24/Linux/Linux01/"/>
-      <url>/2025/09/24/Linux/Linux01/</url>
+      <title>Linux的基本命令</title>
+      <link href="/2025/09/24/Linux/Linux02/"/>
+      <url>/2025/09/24/Linux/Linux02/</url>
       
       
       <categories>
@@ -50,9 +73,9 @@
     
     
     <entry>
-      <title>Linux的基本命令</title>
-      <link href="/2025/09/24/Linux/Linux02/"/>
-      <url>/2025/09/24/Linux/Linux02/</url>
+      <title>初识Linux</title>
+      <link href="/2025/09/24/Linux/Linux01/"/>
+      <url>/2025/09/24/Linux/Linux01/</url>
       
       
       <categories>
@@ -96,6 +119,29 @@
     
     
     <entry>
+      <title>Linux的实用操作</title>
+      <link href="/2025/09/24/Linux/Linux03/"/>
+      <url>/2025/09/24/Linux/Linux03/</url>
+      
+      
+      <categories>
+          
+          <category> 操作技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Windows下安装WSL</title>
       <link href="/2025/09/24/Linux/WSL/"/>
       <url>/2025/09/24/Linux/WSL/</url>
@@ -113,29 +159,6 @@
             <tag> Linux </tag>
             
             <tag> WSL </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Linux的实用操作</title>
-      <link href="/2025/09/24/Linux/Linux03/"/>
-      <url>/2025/09/24/Linux/Linux03/</url>
-      
-      
-      <categories>
-          
-          <category> 操作技巧 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Linux </tag>
             
         </tags>
       
