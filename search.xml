@@ -27,9 +27,9 @@
     
     
     <entry>
-      <title>Linux的基本命令</title>
-      <link href="/2025/09/24/Linux/Linux02/"/>
-      <url>/2025/09/24/Linux/Linux02/</url>
+      <title>初识Linux</title>
+      <link href="/2025/09/24/Linux/Linux01/"/>
+      <url>/2025/09/24/Linux/Linux01/</url>
       
       
       <categories>
@@ -50,9 +50,9 @@
     
     
     <entry>
-      <title>Linux的实用操作</title>
-      <link href="/2025/09/24/Linux/Linux03/"/>
-      <url>/2025/09/24/Linux/Linux03/</url>
+      <title>Linux的基本命令</title>
+      <link href="/2025/09/24/Linux/Linux02/"/>
+      <url>/2025/09/24/Linux/Linux02/</url>
       
       
       <categories>
@@ -96,29 +96,6 @@
     
     
     <entry>
-      <title>初识Linux</title>
-      <link href="/2025/09/24/Linux/Linux01/"/>
-      <url>/2025/09/24/Linux/Linux01/</url>
-      
-      
-      <categories>
-          
-          <category> 操作技巧 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Linux </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Windows下安装WSL</title>
       <link href="/2025/09/24/Linux/WSL/"/>
       <url>/2025/09/24/Linux/WSL/</url>
@@ -136,6 +113,29 @@
             <tag> Linux </tag>
             
             <tag> WSL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Linux的实用操作</title>
+      <link href="/2025/09/24/Linux/Linux03/"/>
+      <url>/2025/09/24/Linux/Linux03/</url>
+      
+      
+      <categories>
+          
+          <category> 操作技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
             
         </tags>
       
